@@ -20,19 +20,19 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'demowordpress');
+define('DB_NAME', 'wrgtest');
 
 /** MySQL database username */
-define('DB_USER', 'demowordpress');
+define('DB_USER', 'wrgtest');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'demowordpress');
+define('DB_PASSWORD', '6FPX0t1Lb2E4E6B@#$');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
-define('DB_CHARSET', 'utf8mb4');
+define('DB_CHARSET', 'utf8');
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         ' XH?m|{0FFCwI?Km}=vjO`_&ah*k/aH?d%[FK]uCI%s@_zd^w:$o&T@y(*`3A)#|');
-define('SECURE_AUTH_KEY',  'NQl.F>(py}J`.D0N<C2~|k!>]uJta roH9_`b>$J??X%P7hv!)-:[A3wwhlwN]J6');
-define('LOGGED_IN_KEY',    'is2jdtZCu}FWSYZ~tf`{nZC(#QCe&4.cmn tIsuCd<!1?tuz3>?*o;&b=nY_Gbr$');
-define('NONCE_KEY',        '|&Xl#(yL*4+3lG9$ymRgs1b!%tS(+:!.~@nBfkwh b<-_#*]$*k!M2A_.,h[va0a');
-define('AUTH_SALT',        'kV;F;#ff5d4]FFA]@H1m>GRbWWuSNI=wN$iXcqi%uAZ<u%Yd@PMrE<=ucQ:[C .0');
-define('SECURE_AUTH_SALT', 'dv9VvN]qy1*PC[:F!FaHDVZ,2{YTGbw:-bh_0.:<Wb(Pa!ra!zu@G6SaF1=tL1MX');
-define('LOGGED_IN_SALT',   '6&.yfoEaQv;+S5k!!9Uk~/~B$xCY ykJVH36MVN81qJ-lQ,3.yWij#{<)WwQ{PEE');
-define('NONCE_SALT',       '*IFQ bbp<&l1+BxT _%=;`qj]s|v0I)h@ErD]3Km{xZ  s/T#x0$(ly>hzYhhe5Y');
+define('AUTH_KEY',         'put your unique phrase here');
+define('SECURE_AUTH_KEY',  'put your unique phrase here');
+define('LOGGED_IN_KEY',    'put your unique phrase here');
+define('NONCE_KEY',        'put your unique phrase here');
+define('AUTH_SALT',        'put your unique phrase here');
+define('SECURE_AUTH_SALT', 'put your unique phrase here');
+define('LOGGED_IN_SALT',   'put your unique phrase here');
+define('NONCE_SALT',       'put your unique phrase here');
 
 /**#@-*/
 
