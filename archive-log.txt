@@ -17,3 +17,11 @@ DBName: wrgtest
 DB Username: wrgtest
 DB Password: 6FPX0t1Lb2E4E6B@#$
 S3 Bucket: wrg-wrgtest.wrg-apps.com
+Date:2019-01-17
+Domain Name: wrgtest.wrg-apps.com
+Vhost Name: /etc/apache2/sites-enabled/wrgtest.wrg-apps.com.conf
+Document Root: /home/wrgtest/public_html/
+DBName: wrgtest
+DB Username: wrgtest
+DB Password: 6FPX0t1Lb2E4E6B@#$
+S3 Bucket: wrg-wrgtest.wrg-apps.com
